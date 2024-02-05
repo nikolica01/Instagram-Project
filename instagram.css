@@ -1,0 +1,65 @@
+
+.accent-text{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+}
+.container{
+    display: flex;
+    justify-content: start;
+
+    
+}
+header{
+   
+    border-bottom: 1px solid #C6C6C6;
+  
+}
+.glavni{
+    width:375px;
+    margin: 0 auto;
+ 
+    border-radius: 10px;
+ 
+}
+.headers{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.headers .avatar{
+    margin-left: 210px;
+}
+.title .container{
+    margin-top: 10px;
+ 
+}
+.postinsta .container{
+    margin-top: 5px;
+}
+/* Stilizovane slike */
+.logo{
+    width: 127px;
+    height: 60.2px;
+}
+.avatar{
+    width: 34px;
+    height: 34px;
+    border-radius: 100%;
+    
+}
+.icon{
+    width: 34px;
+    height: 34px;
+    margin-top: 3px;
+}
+a:hover{
+    background-color:red
+}
+.post{
+    width: 375px;
+    height: 375px;
+}
+header .avatar{
+    margin:0 auto;
+  }
